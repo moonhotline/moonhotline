@@ -1,17 +1,27 @@
 <div align="center">
 
-# DailySmallProcess
+# First,make a piece of garbage
 
 </div>
 
+
+
 <div align = 'center'>
-DailySmallProcess <br>
+Action First <br>
 
 <h3>
 
   </h3>
-  <p style="font-weight: bold">DailySmallProcess</p> 
+  <p style="font-weight: bold">DailySmallProgress</p> 
   <br>
   
 
 </div>
+
+```mermaid
+flowchart TD
+    A[思考Reasoning🧠] --> B[行动Action🖐️]
+    B --> C[观察Observation👀]
+    C -.->|反馈循环🔁| A
+
+```
